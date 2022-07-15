@@ -1,0 +1,2 @@
+D:\Creative\Games\The Billion Button\The Billion Button\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Creative\Games\The Billion Button\The Billion Button\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
